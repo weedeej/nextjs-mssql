@@ -2,10 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Documentations
 MUI Documentation: [MUI](https://mui.com/material-ui/all-components/)
+
 NextJS Documentation: [Next.js](https://nextjs.org/docs)
+
 MSSQL NodeJS Documentation: [MSSQL](https://www.npmjs.com/package/mssql#documentation)
+
 Typescript Docs (For type-safety): [Typescript](https://www.typescriptlang.org/docs/)
+
 JWT: [Json Web Token](https://jwt.io/introduction)
+
 ReactJS: [ReactJS Documentation](https://react.dev/learn)
 
 ## Getting Started
